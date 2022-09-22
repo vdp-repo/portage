@@ -1,0 +1,3 @@
+sys-kernel/linux-firmware	@BINARY-REDISTRIBUTABLE
+# required by bitwig-studio (argument)
+>=media-sound/bitwig-studio-4.3.4 Bitwig

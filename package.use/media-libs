@@ -1,0 +1,8 @@
+media-libs/harfbuzz	icu
+media-libs/libglvnd	X
+media-libs/opus		custom-modes
+media-libs/gstreamer    32 64 32 64  abi_x86_32
+media-libs/gst-plugins-base 32 64 32 64  abi_x86_32
+media-libs/gst-plugins-good  32 64 32 64  abi_x86_32
+media-libs/gst-plugins-bad 32 64 32 64  abi_x86_32
+media-libs/gst-plugins-ugly  32 64 32 64  abi_x86_32

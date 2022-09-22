@@ -1,0 +1,16 @@
+app-emulation/wine-desktop-common::wine
+app-emulation/wine-gecko::wine
+app-emulation/wine-mono::wine
+app-emulation/wine-staging::wine
+app-emulation/winetricks::wine
+app-emulation/wine-vanilla::wine
+virtual/wine::wine
+
+app-emulation/wine-desktop-common::wine
+app-emulation/wine-gecko::wine
+app-emulation/wine-mono::wine
+app-emulation/wine-staging::wine
+app-emulation/winetricks::wine
+app-emulation/wine-vanilla::wine
+virtual/wine::wine
+

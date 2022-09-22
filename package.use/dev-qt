@@ -1,0 +1,4 @@
+dev-qt/qtmultimedia		widgets
+dev-qt/qtsingleapplication	X
+dev-qt/qtwebchannel		qml
+dev-qt/qtwebengine		widgets

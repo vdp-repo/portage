@@ -1,0 +1,16 @@
+x11-libs/ntk
+# required by =gentoo-sources-5.15.63:5.15.63 (argument)
+=sys-kernel/gentoo-sources-5.15.63 ~amd64
+# required by bitwig-studio (argument)
+=media-sound/bitwig-studio-4.3.4 ~amd64
+# required by micro (argument)
+=app-editors/micro-2.0.10 ~amd64
+# required by wine-tkg (argument)
+=app-emulation/wine-tkg-7.0 ~amd64
+# required by yabridge (argument)
+=media-sound/yabridge-4.0.2 ~amd64
+# required by sys-kernel/linux-tkg-sources (argument)
+=sys-kernel/linux-tkg-sources-5.17.5 ~amd64
+=sys-kernel/linux-image-linux-image-5.4.214 ~amd64
+# required by =app-emulation/wine-lutris-6.21_p6::ap-overlay (argument)
+=app-emulation/wine-lutris-6.21_p6 ~amd64

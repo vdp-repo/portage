@@ -1,0 +1,10 @@
+media-sound/drumkv1		lv2 standalone
+media-sound/lame		-frontend
+media-sound/linuxsampler	alsa jack lv2
+media-sound/mpg123		-jack -sdl
+media-sound/padthv1		alsa lv2 standalone
+media-sound/pure-data		alsa fftw jack
+media-sound/samplv1		alsa lv2 standalone
+media-sound/synthv1		alsa lv2 standalone
+media-sound/zynaddsubfx		alsa dssi fltk jack lash
+

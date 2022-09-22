@@ -1,0 +1,12 @@
+# required by app-emulation/wine-lutris-6.21_p6::ap-overlay
+# required by app-emulation/wine-lutris (argument)
+# /etc/portage/package.mask/gentoo_wine:
+=app-emulation/wine-desktop-common-20150204-r1
+# required by app-emulation/wine-lutris-6.21_p6::ap-overlay[mono]
+# required by app-emulation/wine-lutris (argument)
+# /etc/portage/package.mask/gentoo_wine:
+=app-emulation/wine-mono-7.0.0
+# required by app-emulation/wine-lutris-6.21_p6::ap-overlay[gecko]
+# required by app-emulation/wine-lutris (argument)
+# /etc/portage/package.mask/gentoo_wine:
+=app-emulation/wine-gecko-2.47.2
